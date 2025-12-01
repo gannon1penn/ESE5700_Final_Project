@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      fsanderh
+HostName                       big18.seas.upenn.edu
+ProcessIdentifier              3711
+ProcessCreationTime_UTC        1761060827
+ProcessCreationTime_Readable   Tue Oct 21 11:33:47 2025 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /lcars/home/f/fsanderh/cadenceGPDK/ESE5700Nocorr/Mux16#3a4Delay/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Oct 21 14:14:11 2025 EDT
